@@ -1,0 +1,103 @@
+[
+    {
+        "Header": {
+            "imgLogo":"./images/logo.png",
+            "bg":"./images/bg_06.jpg",
+            "imgLayer02":"./images/layer_02.png",
+            "imgLayer03":"./images/layer_03.png",
+            "imgLayer04":"./images/layer_04.png",
+            "imgLayer05":"./images/layer_05.png",
+            "imgLayer06":"./images/layer_06.png",
+            "imgLayer07":"./images/layer_07.png",
+            "imgLayer08":"./images/layer_08.png",
+            "imgLayer10":"./images/layer_10.png",
+            "imgLayer11":"./images/layer_11.png",
+            "imgLayer13":"./images/layer_13.png",
+            "imgLayer14":"./images/layer_14.png",
+            "imgLayer15":"./images/layer_15.png"
+        },
+        "Welcome": {
+            "title":"Welcome to our Pizzeria",
+            "text": "Collaboratively benchmark multifunctional methodologies vis-a-vis effective imperatives. Completely morph proactive bandwidth vis-a-vis highly efficient niches",
+            "decoration_01":"./images/decoration_01-300x162.jpg",
+            "decoration_03":"./images/decoration_03-300x262.jpg",
+            "img_05":"./images/img_05.jpg",
+            "name_1":"Italian Flavours",
+            "img_06":"./images/img_06.jpg",
+            "name_2":"Home Delivery",
+            "img_07":"./images/img_07.jpg",
+            "name_3":"Enjoy With Your Friends"
+        },
+        "Selected": {
+            "title":"Selected Pizzas",
+            "namePizza_1":"Veggie Fresco Pizza",
+            "compositionPizza_1":"Tomato, Green Peppers, Onions, Mushrooms, Black-Olives, Melted Mozzarella, Perfect Stone Fired Crust",
+            "price_1":"$18.99",
+            "namePizza_2":"Best Pizza",
+            "compositionPizza_2":"Tomato, Green Peppers, Onions, Mushrooms, Black-Olives, Melted Mozzarella, Perfect Stone Fired Crust",
+            "price_2":"$14.99",
+            "namePizza_3":"4 Cheese Classico",
+            "compositionPizza_3":"Tomato, Green Peppers, Onions, Mushrooms, Black-Olives, Melted Mozzarella, Perfect Stone Fired Crust",
+            "price_3":"$11.99",
+            "namePizza_4":"BBQ Chicken Pizza",
+            "compositionPizza_4":"Tomato, Green Peppers, Onions, Mushrooms, Black-Olives, Melted Mozzarella, Perfect Stone Fired Crust",
+            "price_4":"$16.99"
+        },
+        "Salads": {
+            "title":"Salads",
+            "photo":"./images/img_03.jpg",
+            "name_1":"Roast chicken & crispy bread",
+            "price_1":"$11.99",
+            "composition_1":"olive oil, lemon, garlic, ciabatta, pine nuts",
+            "name_2":"Golden Chevre",
+            "price_2":"$11.99",
+            "composition_2":"breaded goat cheese, mixed greens, strawberries, dried cranberries",
+            "name_3":"Spinach Salad",
+            "price_3":"$11.99",
+            "composition_3":"spinach, raisins, walnuts, gorgonzola, balsamic & dijon vinaigrette",
+            "name_4":"Chop Salad",
+            "price_4":"$11.99",
+            "composition_4":"romaine, egg, red onion, tomato, bleu cheese, bacon",
+            "name_5":"Caesar",
+            "price_5":"$11.99",
+            "composition_5":"romaine, parmesan"  
+        },
+        "Deserts": {
+            "title":"Deserts",
+            "photo":"./images/img_04.jpg",
+            "name_1":"Lychee Icecream",
+            "price_1":"$5.99",
+            "composition_1":"Lychee Flavored Ice Cream",
+            "name_2":"Coconut Icecream",
+            "price_2":"$4.99",
+            "composition_2":"Coconut Flavored Indian Ice Cream",
+            "name_3":"Mint Lemonade",
+            "price_3":"$3.99",
+            "composition_3":"Mint Flavored Lemonade"
+        },
+        "Ingredients": {
+            "title":"We use only fresh ingredients",
+            "description":"Collaboratively benchmark multifunctional methodologies vis-a-vis effective imperatives. Completely morph proactive bandwidth vis-a-vis highly efficient niches. Competently empower clicks-and-mortar data via timely systems. Completely unleash top-line services via emerging e-business",
+            "fruits_1":"./images/ingredient_01.png",
+            "fruits_2":"./images/ingredient_02.png",
+            "fruits_3":"./images/ingredient_03.png",
+            "img":"./images/image_01.png"
+        },
+        "Reviews": {
+            "name_1":"Amanda Seinfield",
+            "сomments_1":"Kallyas Pizza has great pizza. Not only do you get served with a great attitude and delivered delicious pizza, you get a great price. I buy lunch slices in Port Angeles frequently when I’m there, and the price never fails to make me smile.",
+            "name_2":"Victor Ried",
+            "сomments_2":"The pizza was delivered within a decent time frame, was delicious and tasted like real toppings! The service was great, too, as was the online ordering system.",
+            "name_3":"Susana Wellbrook",
+            "сomments_3":"These people are great! Kallyas is the longest lasting pizza place in our town and is well run and staffed. We are thankful they are there. Prices are great and allow us to keep coming back."
+
+        },
+        "Footer": {
+            "address": "1944 Zappia Drive Little Rock Arkansas 72219",
+            "email": "+20 (700) 659 993 orders@kallyaspizza.com",
+            "icon_1": "",
+            "icon_2": "",
+            "icon_3": ""
+        }
+    }
+]
